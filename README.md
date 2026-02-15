@@ -1,12 +1,12 @@
-<div align="center">
+<!-- <div align="center">
   <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/ee588f39-3f9d-483f-8c79-a36bfa83b636" />
-</div>
+</div> -->
 
 <!-- Comment: Added a short HTML comment here as requested. -->
 
 <div align="left">
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Ali Sulman
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Mohsin Raza
 
 ### A passionate developer from Pakistan
 
@@ -37,7 +37,6 @@ skills in backend development and AI.
 | Company                              | Position                 | Duration          |
 | ------------------------------------ | ------------------------ | ----------------- |
 | Pakistan Artificial Intelligence Lab | Joiner Software Engineer | 2025-07 - Present |
-| Systems Private Limited              | DPE                      | 2024-10 - 2025-06 |
 
 ### Joiner Software Engineer at Pakistan Artificial Intelligence Lab
 
